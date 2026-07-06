@@ -1,0 +1,51 @@
+# Geotechnique — Le Mans
+
+> Geotechnical engineering services in Le Mans, France.
+
+## Services
+- [Amelioration Sols](https://le-mans.geotechnique.biz/amelioration-sols/)
+- [Ancrages](https://le-mans.geotechnique.biz/ancrages/)
+- [Cbr Routier](https://le-mans.geotechnique.biz/cbr-routier/)
+- [Chaussee Rigide](https://le-mans.geotechnique.biz/chaussee-rigide/)
+- [Chaussee Souple](https://le-mans.geotechnique.biz/chaussee-souple/)
+- [Colonnes Ballastees](https://le-mans.geotechnique.biz/colonnes-ballastees/)
+- [Densite Cone Sable](https://le-mans.geotechnique.biz/densite-cone-sable/)
+- [Essai Plaque Charge](https://le-mans.geotechnique.biz/essai-plaque-charge/)
+- [Excavations](https://le-mans.geotechnique.biz/excavations/)
+- [Excavations Profondes](https://le-mans.geotechnique.biz/excavations-profondes/)
+- [Fondations](https://le-mans.geotechnique.biz/fondations/)
+- [Geophysique](https://le-mans.geotechnique.biz/geophysique/)
+- [Geotechnique Routiere](https://le-mans.geotechnique.biz/geotechnique-routiere/)
+- [Granulometrie](https://le-mans.geotechnique.biz/granulometrie/)
+- [Injections](https://le-mans.geotechnique.biz/injections/)
+- [Investigation](https://le-mans.geotechnique.biz/investigation/)
+- [Isolation Sismique](https://le-mans.geotechnique.biz/isolation-sismique/)
+- [Labo In Situ](https://le-mans.geotechnique.biz/labo-in-situ/)
+- [Laboratoire](https://le-mans.geotechnique.biz/laboratoire/)
+- [Limites Atterberg](https://le-mans.geotechnique.biz/limites-atterberg/)
+- [Liquefaction](https://le-mans.geotechnique.biz/liquefaction/)
+- [Masw](https://le-mans.geotechnique.biz/masw/)
+- [Microzonage Sismique](https://le-mans.geotechnique.biz/microzonage-sismique/)
+- [Murs Soutenement](https://le-mans.geotechnique.biz/murs-soutenement/)
+- [Permeabilite In Situ](https://le-mans.geotechnique.biz/permeabilite-in-situ/)
+- [Pieux](https://le-mans.geotechnique.biz/pieux/)
+- [Puits Inspection](https://le-mans.geotechnique.biz/puits-inspection/)
+- [Radiers](https://le-mans.geotechnique.biz/radiers/)
+- [Refraction Sismique](https://le-mans.geotechnique.biz/refraction-sismique/)
+- [Resistivite](https://le-mans.geotechnique.biz/resistivite/)
+- [Semelles](https://le-mans.geotechnique.biz/semelles/)
+- [Sismique](https://le-mans.geotechnique.biz/sismique/)
+- [Sondages Spt](https://le-mans.geotechnique.biz/sondages-spt/)
+- [Stabilite Talus](https://le-mans.geotechnique.biz/stabilite-talus/)
+- [Surveillance Excavations](https://le-mans.geotechnique.biz/surveillance-excavations/)
+- [Talus](https://le-mans.geotechnique.biz/talus/)
+- [Triaxial](https://le-mans.geotechnique.biz/triaxial/)
+- [Tunnels Sol Mou](https://le-mans.geotechnique.biz/tunnels-sol-mou/)
+- [Vibrocompactage](https://le-mans.geotechnique.biz/vibrocompactage/)
+
+## Contact
+- Website: https://le-mans.geotechnique.biz/
+
+## About
+This site provides geotechnical engineering services in Le Mans, France.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
